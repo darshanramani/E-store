@@ -1,8 +1,3 @@
-Perfect 👍
-Below is a **FULL, beginner-friendly README** you can **copy–paste directly** into a `README.md` file (or convert to PDF later).
-It is written so that **even someone using Kotlin & Android Studio for the first time can run your app**.
-
----
 
 # 📱 E-Store Android App (Kotlin + SQLite)
 
